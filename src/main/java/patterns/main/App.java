@@ -41,7 +41,7 @@ public class App
 		System.out.println("\nCircle #2 of red border");
 		redCircleOpt2.draw();
 		
-		System.out.println("\nRectangle #2 of red border Test");
+		System.out.println("\nRectangle #2 of red border");
 		redRectangleOpt2.draw();
     }
 }
