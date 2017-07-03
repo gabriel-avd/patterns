@@ -34,7 +34,7 @@ public class App
 		Shape redCircleOpt2 = new RedShapeDecoratorOPC2(new Circle());
 		Shape redRectangleOpt2 = new RedShapeDecoratorOPC2(new Rectangle());
 		
-		System.out.println("========================= Option #2\n");
+		System.out.println("========================= Option #2 Test\n");
 		System.out.println("Circle #2 with normal border");
 		circleOpt2.draw();
 		
